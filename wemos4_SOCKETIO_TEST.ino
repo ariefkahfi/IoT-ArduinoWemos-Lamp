@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 
-char ssid[] = "Putro haza muthi";
-char pass[] = "14042004";
+char ssid[] = "YOUR_SSID";
+char pass[] = "YOUR_PASS";
 SocketIoClient socket;
 const int PIN_RELAY1 = 0;
 
